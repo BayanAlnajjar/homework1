@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="homework1/homework1.csproj" />
+  <Project Path="Logic/Logic.csproj" />
+</Solution>
